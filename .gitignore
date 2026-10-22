@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+demo_clinic.db
+demo_clinic.db-shm
+demo_clinic.db-wal
